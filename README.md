@@ -1,5 +1,4 @@
 # social-network-friend-suggestion
-Here’s a concise and impactful description for your resume:  
 
 Friend Suggestion System – C++ (Graph, BFS, BST)  
 - Developed a friend recommendation system using Graph (Adjacency List) to store user connections and BFS for second-degree friend discovery.  
